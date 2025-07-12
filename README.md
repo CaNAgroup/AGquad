@@ -1,12 +1,11 @@
 
-============
 AGquad MATLAB package
-============
+=====================
 
 AUTHORS
 -------
 
-Patricia Díaz de Alba, Luisa Fermo, Giuseppe Rodriguez
+Patricia DÃ­az de Alba, Luisa Fermo, Giuseppe Rodriguez
        University of Cagliari, Italy
 Email: patricia.diazda@unica.it; fermo@unica.it; rodriguez@unica.it
 
@@ -14,17 +13,17 @@ Email: patricia.diazda@unica.it; fermo@unica.it; rodriguez@unica.it
 REFERENCES
 ----------
 
-P. Díaz de Alba, L. Fermo, and G. Rodriguez
+P. DÃ­az de Alba, L. Fermo, and G. Rodriguez
 AGquad: a MATLAB package for 1D and 2D anti-Gauss rules.
 Submitted.
 https://doi.org/...
       
-P. Díaz de Alba, L. Fermo, and G. Rodriguez
+P. DÃ­az de Alba, L. Fermo, and G. Rodriguez
 Anti-Gauss cubature rules with applications to Fredholm integral equations on the square.
 SIAM Journal of Scientific Computing, 47(2): A689-A712, 2025.
 https://doi.org/10.1137/24M1631432
 
-P. Díaz de Alba, L. Fermo, and G. Rodriguez
+P. DÃ­az de Alba, L. Fermo, and G. Rodriguez
 Solution of second-kind Fredholm integral equations by means of Gauss and anti-Gauss quadrature rules.
 Numerische Mathematik, 146(4): 699-728, 2020.
 https://doi.org/10.1007/s00211-020-01163-7
