@@ -67,9 +67,9 @@ PACKAGE STRUCTURE
 The main AGquad directory contains the following files:
 
 Computational Routines
-%   nodesweights 	- nodes and weights for Gauss, anti-Gauss and G^* rules
-%   quadG1D 		- Gauss quadrature for an integral on [-1,1]
-%   quadGS1D        	- G^* quadrature for an integral on [-1,1]
+-   nodesweights 	- nodes and weights for Gauss, anti-Gauss and G^* rules
+-   quadG1D 		- Gauss quadrature for an integral on [-1,1]
+-   quadGS1D        	- G^* quadrature for an integral on [-1,1]
 %   quadG2D 		- Gauss cubature for an integral on [-1,1]x[-1,1]
 %   quadantiG1D 	- anti-Gauss quadrature for an integral on [-1,1]
 %   quadantiG2D 	- anti-Gauss cubature for an integral on [-1,1]x[-1,1]
